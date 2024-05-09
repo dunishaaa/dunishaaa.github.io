@@ -1,6 +1,6 @@
 # Arturo Montes González
 
-- **Email:** a01798012@tec.mx
+- **Email:** A01798012@tec.mx
 - [LinkedIn](www.linkedin.com/in/arturo-montes-gonzalez-844513288)
 - [GitHub](https://github.com/dunishaaa)
 
@@ -36,8 +36,6 @@
 - **Soft Skills:** Problem solving, team leadership, teamwork, critical thinking, adaptability, communication.
 
 ## Projects
-
-### 
 
 ### Transit simulator (*C#, Unity, Python, Mesa*) 
 [Source](https://github.com/dunishaaa/trans-project)
